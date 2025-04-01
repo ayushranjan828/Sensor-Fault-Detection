@@ -1,0 +1,41 @@
+[2025-04-01 22:28:42,275] 224 werkzeug - WARNING -  * Debugger is active!
+[2025-04-01 22:28:42,281] 224 werkzeug - INFO -  * Debugger PIN: 258-012-326
+[2025-04-01 22:29:06,163] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:29:06] "GET / HTTP/1.1" 200 -
+[2025-04-01 22:29:06,412] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:29:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-01 22:29:23,645] 69 root - INFO - Entered initiated_data_ingestion method of data_integration class
+[2025-04-01 22:29:23,646] 46 root - INFO - Exporting data from mongodb
+[2025-04-01 22:30:00,078] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:30:00] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[2025-04-01 22:30:00,452] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:30:00] "GET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2025-04-01 22:30:00,453] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:30:00] "GET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2025-04-01 22:30:00,670] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:30:00] "GET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2025-04-01 22:30:00,804] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:30:00] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-04-01 22:32:43,776] 69 root - INFO - Entered initiated_data_ingestion method of data_integration class
+[2025-04-01 22:32:43,776] 46 root - INFO - Exporting data from mongodb
+[2025-04-01 22:33:04,995] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:33:04] "GET / HTTP/1.1" 200 -
+[2025-04-01 22:33:14,123] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:33:14] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[2025-04-01 22:33:14,431] 69 root - INFO - Entered initiated_data_ingestion method of data_integration class
+[2025-04-01 22:33:14,431] 46 root - INFO - Exporting data from mongodb
+[2025-04-01 22:33:14,448] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:33:14] "[36mGET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-04-01 22:33:14,449] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:33:14] "[36mGET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-04-01 22:33:14,778] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:33:14] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-04-01 22:33:15,104] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:33:15] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-04-01 22:33:44,819] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:33:44] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[2025-04-01 22:33:45,141] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:33:45] "[36mGET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-04-01 22:33:45,143] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:33:45] "[36mGET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-04-01 22:33:45,403] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:33:45] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-04-01 22:40:49,787] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:40:49] "GET / HTTP/1.1" 200 -
+[2025-04-01 22:40:49,836] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:40:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-01 22:41:00,123] 69 root - INFO - Entered initiated_data_ingestion method of data_integration class
+[2025-04-01 22:41:00,123] 46 root - INFO - Exporting data from mongodb
+[2025-04-01 22:41:30,652] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:41:30] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[2025-04-01 22:41:30,700] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:41:30] "GET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2025-04-01 22:41:31,473] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:41:31] "GET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2025-04-01 22:41:31,801] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:41:31] "GET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2025-04-01 22:41:32,064] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:41:32] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-04-01 22:47:10,107] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:47:10] "GET / HTTP/1.1" 200 -
+[2025-04-01 22:47:16,211] 69 root - INFO - Entered initiated_data_ingestion method of data_integration class
+[2025-04-01 22:47:16,211] 46 root - INFO - Exporting data from mongodb
+[2025-04-01 22:47:47,008] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:47:47] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[2025-04-01 22:47:47,028] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:47:47] "[36mGET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-04-01 22:47:47,338] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:47:47] "[36mGET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-04-01 22:47:47,689] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 22:47:47] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
