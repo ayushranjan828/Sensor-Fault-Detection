@@ -1,0 +1,18 @@
+[2025-04-03 13:29:04,254] 96 werkzeug - WARNING -  * Debugger is active!
+[2025-04-03 13:29:04,254] 96 werkzeug - INFO -  * Debugger PIN: 108-328-544
+[2025-04-03 13:31:00,379] 96 werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:31:00] "GET / HTTP/1.1" 200 -
+[2025-04-03 13:31:00,758] 96 werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:31:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-04-03 13:31:05,993] 96 werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:31:05] "GET /predict HTTP/1.1" 200 -
+[2025-04-03 13:31:06,165] 96 werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:31:06] "[33mGET /script.js HTTP/1.1[0m" 404 -
+[2025-04-03 13:31:06,197] 96 werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:31:06] "GET /static/css/style.css HTTP/1.1" 200 -
+[2025-04-03 13:31:18,227] 92 root - INFO - Exception Occured in load_object function utils
+[2025-04-03 13:31:18,322] 96 werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:31:18] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2025-04-03 13:31:18,366] 96 werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:31:18] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-04-03 13:31:18,378] 96 werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:31:18] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2025-04-03 13:31:18,720] 96 werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:31:18] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-04-03 13:31:39,966] 69 root - INFO - Entered initiated_data_ingestion method of data_integration class
+[2025-04-03 13:31:39,966] 46 root - INFO - Exporting data from mongodb
+[2025-04-03 13:32:13,703] 96 werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:32:13] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[2025-04-03 13:32:14,029] 96 werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:32:14] "[36mGET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-04-03 13:32:14,029] 96 werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:32:14] "GET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2025-04-03 13:32:14,291] 96 werkzeug - INFO - 127.0.0.1 - - [03/Apr/2025 13:32:14] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

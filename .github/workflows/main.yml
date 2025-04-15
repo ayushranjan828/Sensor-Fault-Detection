@@ -1,0 +1,20 @@
+name: workflow
+
+en:
+  push:
+    branches:
+      -main
+    path-ignore:
+      - 'README.md'
+
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  integration:
+    name: Continuous Integration
+    run-on: ubuntu-latest
+    steps:
+      - name

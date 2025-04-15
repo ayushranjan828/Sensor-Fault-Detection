@@ -1,0 +1,14 @@
+[2025-04-01 23:49:06,320] 224 werkzeug - WARNING -  * Debugger is active!
+[2025-04-01 23:49:06,333] 224 werkzeug - INFO -  * Debugger PIN: 258-012-326
+[2025-04-01 23:49:11,810] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 23:49:11] "GET / HTTP/1.1" 200 -
+[2025-04-01 23:49:19,754] 69 root - INFO - Entered initiated_data_ingestion method of data_integration class
+[2025-04-01 23:49:19,754] 46 root - INFO - Exporting data from mongodb
+[2025-04-01 23:49:20,702] 56 root - INFO - saving exported data into feature store file path :artifacts
+[2025-04-01 23:49:20,710] 74 root - INFO - got the data from mongodb
+[2025-04-01 23:49:20,711] 76 root - INFO - exited initiate_data_ingestion methos of data ingestion class
+[2025-04-01 23:49:21,615] 67 root - INFO - Entered initiate data transformation method of data transfomration class
+[2025-04-01 23:49:21,731] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 23:49:21] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[2025-04-01 23:49:21,774] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 23:49:21] "[36mGET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-04-01 23:49:22,088] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 23:49:22] "[36mGET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-04-01 23:49:22,408] 224 werkzeug - INFO - 127.0.0.1 - - [01/Apr/2025 23:49:22] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-04-01 23:49:28,368] 224 werkzeug - INFO -  * Detected change in 'e:\\Assingment\\Python Project\\Sensor Project\\app.py', reloading
